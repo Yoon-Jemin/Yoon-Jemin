@@ -13,13 +13,13 @@
           <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?&style=for-the-badge&logo=Redis&logoColor=white"/>
       </div>
       <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-          <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?&style=for-the-badge&logo=Amazon Web Services&logoColor=white"/>
+          <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
           <img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?&style=for-the-badge&logo=NGINX&logoColor=white"/>
           <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white"/>
-          <img alt="Github Actions" src="https://img.shields.io/badge/Github Actions-2088FF?&style=for-the-badge&logo=Github Actions&logoColor=white"/>
+          <img alt="Github Actions" src="https://img.shields.io/badge/Github%20Actions-2088FF?&style=for-the-badge&logo=githubactions&logoColor=white"/>
+          <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?&style=for-the-badge&logo=terraform&logoColor=white"/>
       </div>
   </div>
-
 <h3>공부 중 Studying</h3>
 <div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
       <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
@@ -36,8 +36,10 @@
 - **아산 두어스 대학생 창업 부트캠프 1기** (2023.12 ~ 2023.01 *수료)
 
 ## 프로젝트 Project
-- **Aurora**, AI 챗봇을 활용한 사회 문제 해결 프로젝트 발굴 플랫폼 → **R&R** : 백엔드 개발, 클라우드 인프라 구축 (2024.03 ~ ) [🔗 myaurora.co.kr](https://myaurora.co.kr/) <br/>
-- **Dlidam**, AI 음성 변조를 활용한 청각 장애인 소통 플랫폼 → **R&R** : 백엔드 개발, 클라우드 인프라 구축 (2024.08 ~ ) [들리담](https://github.com/DliDAM/backend-spring) <br/>
+- **Groble**, 디지털 컨텐츠 판내 솔루션 플랫폼 → **R&R** : , 클라우드 인프라 구축 (2024.08 ~ ) [🔗 그로블](https://www.groble.im/) <br/>
+- **Aurora**, AI 챗봇을 활용한 사회 문제 해결 프로젝트 발굴 플랫폼 → **R&R** : 백엔드 개발, 클라우드 인프라 구축 (2024.03 ~ ) [ 오로라](https://www.youtube.com/watch?v=2vizuFRnUNA&t=72s) <br/>
+- **Dlidam**, AI 음성 변조를 활용한 청각 장애인 소통 플랫폼 → **R&R** : 백엔드 개발, 클라우드 인프라 구축 (2024.08 ~ ) [들리담](https://www.youtube.com/watch?v=FYObtRgW-n4&t=181s) <br/>
+
 
 </div>
 <!--
