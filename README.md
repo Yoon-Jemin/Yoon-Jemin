@@ -16,6 +16,7 @@
           <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
           <img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?&style=for-the-badge&logo=NGINX&logoColor=white"/>
           <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white"/>
+          <img alt="Docker Swarm" src="https://img.shields.io/badge/Docker%20Swarm-2496ED?&style=for-the-badge&logo=docker&logoColor=white"/>
           <img alt="Github Actions" src="https://img.shields.io/badge/Github%20Actions-2088FF?&style=for-the-badge&logo=githubactions&logoColor=white"/>
           <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?&style=for-the-badge&logo=terraform&logoColor=white"/>
       </div>
@@ -30,7 +31,7 @@
   </div>
 
 ## 활동 Activity 
-- **홍익대학교, 컴퓨터공학과** (2019.03 ~ 2025.02[졸업 예정]) <br/>
+- **홍익대학교, 컴퓨터공학과** (2019.03 ~ 2025.02[졸업]) <br/>
 - **홍익대학교 벤처창업기관 HIVe 27기** (2021.03 ~ ) <br/>
 - **대학생 IT연합동아리 UMC 5th, Server** (2023.09. ~ 2023.02. *수료)
 - **아산 두어스 대학생 창업 부트캠프 1기** (2023.12 ~ 2023.01 *수료)
