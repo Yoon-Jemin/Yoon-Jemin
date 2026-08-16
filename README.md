@@ -1,59 +1,46 @@
-## Hi there 👋
+# 👨🏻‍💻 Jemin Yoon (윤제민)
+**Backend & Infrastructure Engineer** @ Kakao (Computing Platform Team)
 
-<h3>기술 스택 Skills</h3>
-<div style="display: flex; justify-content: center; flex-direction: column; align-items: left;">
-      <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-          <img alt="Java" src="https://img.shields.io/badge/Java-F78740?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-          <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33FF?style=for-the-badge&logo=Spring&logoColor=white"/>
-          <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?&style=for-the-badge&logo=springboot&logoColor=white"/>
-      </div>
-      <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-          <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-          <img alt="MongoDB" src="https://img.shields.io/badge/MongoDb-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
-          <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?&style=for-the-badge&logo=Redis&logoColor=white"/>
-      </div>
-      <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-          <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
-          <img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?&style=for-the-badge&logo=NGINX&logoColor=white"/>
-          <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white"/>
-          <img alt="Docker Swarm" src="https://img.shields.io/badge/Docker%20Swarm-2496ED?&style=for-the-badge&logo=docker&logoColor=white"/>
-          <img alt="Github Actions" src="https://img.shields.io/badge/Github%20Actions-2088FF?&style=for-the-badge&logo=githubactions&logoColor=white"/>
-          <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?&style=for-the-badge&logo=terraform&logoColor=white"/>
-      </div>
-  </div>
-<h3>공부 중 Studying</h3>
-<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
-      <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-          <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white"/>
-          <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
-          <img alt="Spring Cloud" src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?&style=for-the-badge&logo=Spring&logoColor=white"/>
-      </div>
-  </div>
+---
 
-## 활동 Activity 
-- **홍익대학교, 컴퓨터공학과** (2019.03 ~ 2025.02[졸업]) <br/>
-- **홍익대학교 벤처창업기관 HIVe 27기** (2021.03 ~ ) <br/>
-- **대학생 IT연합동아리 UMC 5th, Server** (2023.09. ~ 2023.02. *수료)
-- **아산 두어스 대학생 창업 부트캠프 1기** (2023.12 ~ 2023.01 *수료)
+### 💡 About Me
+- 현재 **카카오 컴퓨팅 플랫폼 팀**에서 소프트웨어 엔지니어로 일하고 있습니다.
+- **AWS, Kubernetes, OpenStack** 등 클라우드 인프라 아키텍처링에 관심이 많습니다
+- **GitLab CI/CD, Airflow**를 활용한 파이프라인 구축 경험이 있습니다.
+- 보안과 효율성을 고려한 네트워크 환경(WireGuard VPN, Private Subnet) 설계 경험이 있습니다.
+- 새로운 기술을 탐구하고, AI 도구를 워크플로우에 적극 도입하여 개발 생산성을 높이는 것을 좋아합니다.
 
-## 프로젝트 Project
-- **Groble**, 디지털 컨텐츠 판내 솔루션 플랫폼 → **R&R** : , 클라우드 인프라 구축 (2024.08 ~ ) [🔗 그로블](https://www.groble.im/) <br/>
-- **Aurora**, AI 챗봇을 활용한 사회 문제 해결 프로젝트 발굴 플랫폼 → **R&R** : 백엔드 개발, 클라우드 인프라 구축 (2024.03 ~ ) [ 오로라](https://www.youtube.com/watch?v=2vizuFRnUNA&t=72s) <br/>
-- **Dlidam**, AI 음성 변조를 활용한 청각 장애인 소통 플랫폼 → **R&R** : 백엔드 개발, 클라우드 인프라 구축 (2024.08 ~ ) [들리담](https://www.youtube.com/watch?v=FYObtRgW-n4&t=181s) <br/>
+---
 
+### 🛠️ Tech Stack
+- **Backend:** Python, Go, Java, Spring
+- **Database:** MySQL, MongoDB, Redis
+- **Infra & DevOps:** AWS, Kubernetes, OpenStack, Docker, Terraform
+- **CI/CD & Tools:** ArgoCD, GitLab CI, GitHub Actions, Apache Airflow, WireGuard
 
-</div>
-<!--
-**Yoon-Jemin/Yoon-Jemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### [Groble] 디지털 컨텐츠 판매 솔루션 플랫폼 (2024.08 ~ )
+- **Role:** 백엔드 개발 및 클라우드 인프라 구축
+- [🔗 웹사이트 바로가기](https://www.groble.im/)
+
+#### [Aurora] AI 챗봇 기반 사회 문제 해결 프로젝트 발굴 플랫폼 (2024.03 ~ 2024.12)
+- **Role:** 팀 리더, 백엔드 개발, 클라우드 인프라 구축 (Atlassian, Confluence, Docker 활용)
+- [🔗 프로젝트 시연 영상](https://www.youtube.com/watch?v=2vizuFRnUNA&t=72s)
+
+#### [Dlidam] AI 음성 변조 기반 청각 장애인 소통 플랫폼 (2024.08 ~ 2024.11)
+- **Role:** 백엔드 개발 및 클라우드 인프라 구축
+- [🔗 프로젝트 시연 영상](https://www.youtube.com/watch?v=FYObtRgW-n4&t=181s)
+
+---
+
+### 🏢 Experience & Education
+- **Kakao**, Computing Platform Team | Software Engineer (2026.01 ~ Present)
+- **NICE P&I (나이스피앤아이)** Index Strategy Team | Software Engineer (2025.01 ~ 2026.01)
+- **Hongik University**, Computer Engineering | B.S. (2019.03 ~ 2025.02)
+  - 컴퓨터공학 캡스톤 프로젝트 팀 리더 (2024.11 졸업 전시)
+- **UMC (University MakeUs Challenge) 5th**, Server (2023.09 ~ 2024.02)
+- **아산 두어스 대학생 창업 부트캠프 1기** (2023.12 ~ 2024.01)
+- **홍익대학교 벤처창업기관 HIVe 27기** (2021.03 ~ 2022.02)
